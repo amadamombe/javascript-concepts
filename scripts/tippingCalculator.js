@@ -1,16 +1,3 @@
-alert("Hello World");
-console.log("Secret message");
-
-document.write("Break time!");
-
-// Task 1
-var myName = "Augustine";
-var myTown = "Leeds";
-
-console.log("My name is " + myName + " and i live in " + myTown);
-
-
-
 // Task 
 var firstNumber = 74.23;
 var secondNumber = 11.20;
@@ -35,12 +22,3 @@ var totalBill = preTipTotal + tip;
 
 console.log(tip);
 console.log(`Your total bill with tip is ${totalBill}`);
-
-
-
-// Task 
-var fName = "Augustine";
-var lName = " Madamombe";
-var fullName = fName + lName;
-
-console.log(`My name is ${fullName}`);
